@@ -27,7 +27,8 @@
 <img width="944" alt="스크린샷 2022-04-17 오후 1 36 06" src="https://user-images.githubusercontent.com/39294100/163703982-17b75281-bae8-4264-ab58-4135d8413fc5.png">  
 게이트웨이 포트인 8767로 앱의 스웨거 호출시 성공한 것을 볼 수 있습니다.  
 
-<img width="1200" alt="스크린샷 2022-04-17 오후 1 18 13" src="https://user-images.githubusercontent.com/39294100/163704024-a48d97d8-6e33-439e-b80e-659f05bbef2a.png">  
+<img width="1200" alt="스크린샷 2022-04-17 오후 1 18 13" src="https://user-images.githubusercontent.com/39294100/163705888-07bfecb8-d95d-4d81-b20c-09999da4d0ee.png">
+ 
 유레카 대시보드 확인시 CLIENT-SERVICE, DISCOVERY-SERVICE, GATEWAY-SERVICE가 3개의 존에 레지스터드 되었음을 확인할 수 있습니다.  
 
 <끝!! 즐거운 실습되세요!>
